@@ -79,7 +79,7 @@ jangan cuman modal nama doang
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/_sadboy.ig)
 * [`WhatsApp Admin `](https://wa.me/+6285722553839)
-## THANKS TO
+## THANKS To
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
 * [`ArugaZ`](https://github.com/ArugaZ/whatsapp-bot)
